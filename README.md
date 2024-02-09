@@ -1,4 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+</p>
 <h1 align="center">Hi 👋, I'm Md Uddin</h1>
 <h3 align="center">An Incoming Intern at Deloitte and Computer Science Student at NJIT</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
