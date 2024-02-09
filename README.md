@@ -1,9 +1,9 @@
 
-<p align=”center”>
+<h1 align=”center”>
 
 <img width=”200" height=”200" src=”https://libg.s3.us-east-2.amazonaws.com/download/New-York-Midtown.jpg" alt=”my banner”>
 
-</p>
+</h1>
 
 <h1 align="center">Hi 👋, I'm Md Uddin</h1>
 <h3 align="center">An Incoming Intern at Deloitte and Computer Science Student at NJIT</h3>
