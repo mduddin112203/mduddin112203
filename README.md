@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Md Uddin</h1>
-<h3 align="center">Computer Science student with a passion for technology and a drive for continuous learning</h3>
+<h3 align="center">A Computer Science Student With A Passion For Technology And A Drive For Continuous Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mduddin112203&label=Profile%20views&color=0e75b6&style=flat" alt="mduddin112203" /> </p>
