@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mduddin112203&label=Profile%20views&color=0e75b6&style=flat" alt="mduddin112203" /> </p>
 
-- 🔭 I’m currently working on [Ocean Eye](https://devpost.com/software/oceaneye-bryv4e)
+- 🔭 I’m currently working on [Cafe Column](https://cafecolumn.com)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **Java, Python, and IOS**
+- 💬 Ask me about **Java, Python, and Cybersecurity**
 
 - 📫 How to reach me **uddinshams74@gmail.com**
 
