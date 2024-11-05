@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mduddin112203&label=Profile%20views&color=0e75b6&style=flat" alt="mduddin112203" /> </p>
 
-- 🔭 I’m currently working on [Cafe Column](https://devpost.com/software/ecopantry-4u2qbj#updates)
+- 🔭 I’m currently working on [EcoPantry](https://devpost.com/software/ecopantry-4u2qbj#updates)
 
 - 🌱 I’m currently learning **C**
 
