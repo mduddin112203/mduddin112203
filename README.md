@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Md Uddin</h1>
+<h1 align="center">Hi , I'm Md Uddin</h1>
 <h3 align="center">Software Engineer</h3>
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I'm a software engineer studying at NJIT with experience in full-stack development, AI, and cybersecurity. I've interned at UBS and Deloitte, and I enjoy building tools that solve real-world problems.
 
@@ -64,6 +64,10 @@ AI-powered web app to reduce food waste
 #### ☕ [Cafe Column](http://cafecolumn.com/)  
 Cafe review blog with live database sync  
 `Node.js | MongoDB | JavaScript | HTML/CSS`
+
+#### 🌊 [OceanEye](https://github.com/TanAhm10/OceanEye)  
+iOS application that identifies fish species using machine learning and image recognition. Built during a 24-hour hackathon with real-time classification and Firebase-based storage.  
+`Swift | Xcode | CoreML | Firebase | Image Recognition | Mobile Development`
 
 ---
 
