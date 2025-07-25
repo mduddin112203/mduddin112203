@@ -66,7 +66,7 @@ Cafe review blog with live database sync
 `Node.js | MongoDB | JavaScript | HTML/CSS`
 
 #### 🌊 [OceanEye](https://github.com/TanAhm10/OceanEye)  
-iOS application that identifies fish species using machine learning and image recognition. Built during a 24-hour hackathon with real-time classification and Firebase-based storage.  
+iOS application that identifies fish species using machine learning and image recognition.   
 `Swift | Xcode | CoreML | Firebase | Image Recognition | Mobile Development`
 
 ---
