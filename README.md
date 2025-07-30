@@ -73,7 +73,6 @@ iOS application that identifies fish species using machine learning and image re
 
 ### 📄 Certifications
 
--  Microsoft Certified: Azure AI Fundamentals (Jul 2025)  
--  Microsoft Certified: Azure Fundamentals (Jun 2025)  
--  AWS Certified Cloud Practitioner (May 2025)  
--  Cisco: Python Essentials 1 (Dec 2023)
+-  Microsoft Certified: Azure AI Fundamentals
+-  Microsoft Certified: Azure Fundamentals
+-  AWS Certified Cloud Practitioner
