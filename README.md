@@ -8,15 +8,15 @@
 I'm a software engineer studying at NJIT with experience in full-stack development, AI systems, and cybersecurity.  
 I've interned at **UBS** and **Deloitte**, and I enjoy building scalable web apps, useful tools, and AI-powered features.
 
-📫 Email: [uddinshams74@gmail.com](mailto:uddinshams74@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/mduddin11](https://linkedin.com/in/mduddin11)  
-💻 GitHub: [github.com/mduddin112203](https://github.com/mduddin112203)
+Email: [uddinshams74@gmail.com](mailto:uddinshams74@gmail.com)  
+LinkedIn: [linkedin.com/in/mduddin11](https://linkedin.com/in/mduddin11)  
+GitHub: [github.com/mduddin112203](https://github.com/mduddin112203)
 
 ---
 
 ## Tech Stack
 
-### 💻 Languages  
+### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
@@ -53,12 +53,12 @@ I've interned at **UBS** and **Deloitte**, and I enjoy building scalable web app
 
 ## Projects
 
-### 💇‍♂️ **Strands**  
+### **Strands**  
 **Full-stack salon management platform** for customers, owners, stylists, and admins  
 Frontend lead: dashboards, auth, CI/CD, testing, AWS deployment  
 
-🔗 Live: [strands.click](https://strands.click)  
-📁 Repos:  
+Live: [strands.click](https://strands.click)  
+Repos:  
 - Frontend: [github.com/rrojas1819/Strands-Frontend](https://github.com/rrojas1819/Strands-Frontend)  
 - Backend: [github.com/rrojas1819/Strands-Backend](https://github.com/rrojas1819/Strands-Backend)  
 
@@ -69,8 +69,8 @@ Frontend lead: dashboards, auth, CI/CD, testing, AWS deployment
 ### **EcoPantry** — *HackNJIT “Best Themed Hack” Winner*  
 AI-powered web app that reduces food waste with smart pantry tracking  
 
-🔗 Live: [devpost.com/software/ecopantry-4u2qbj](https://devpost.com/software/ecopantry-4u2qbj)  
-📁 Repo: [github.com/naa23/EcoPantry](https://github.com/naa23/EcoPantry/tree/main)  
+Live: [devpost.com/software/ecopantry-4u2qbj](https://devpost.com/software/ecopantry-4u2qbj)  
+Repo: [github.com/naa23/EcoPantry](https://github.com/naa23/EcoPantry/tree/main)  
 
 `React | Tailwind | Spring Boot | MySQL | OpenAI Vision API | OCR`
 
@@ -79,7 +79,7 @@ AI-powered web app that reduces food waste with smart pantry tracking
 ### **Cafe Column**  
 Cafe review blog with real-time synced reviews  
 
-📁 Repo: [github.com/haileyhsiung/CafeColumn](https://github.com/haileyhsiung/CafeColumn)  
+Repo: [github.com/haileyhsiung/CafeColumn](https://github.com/haileyhsiung/CafeColumn)  
 
 `Node.js | MongoDB | JavaScript | HTML/CSS`
 
@@ -88,7 +88,7 @@ Cafe review blog with real-time synced reviews
 ### **OceanEye**  
 iOS app that identifies fish species using machine learning  
 
-📁 Repo: [github.com/TanAhm10/OceanEye](https://github.com/TanAhm10/OceanEye)  
+Repo: [github.com/TanAhm10/OceanEye](https://github.com/TanAhm10/OceanEye)  
 
 `Swift | CoreML | Firebase | Image Recognition`
 
