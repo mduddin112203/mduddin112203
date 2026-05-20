@@ -5,8 +5,8 @@
 
 ### About Me
 
-I'm a software engineer studying at NJIT with experience in full-stack development, AI systems, and cybersecurity.  
-I've interned at **UBS** and **Deloitte**, and I enjoy building scalable web apps, useful tools, and AI-powered features.
+I’m a software engineer with a B.S. in Computer Science from New Jersey Institute of Technology, with experience in full-stack development, AI systems, and cybersecurity.
+I interned at **UBS** and **Deloitte**, and I enjoy building scalable web apps, useful tools, and AI-powered products.
 
 Email: [uddinshams74@gmail.com](mailto:uddinshams74@gmail.com)  
 LinkedIn: [linkedin.com/in/mduddin11](https://linkedin.com/in/mduddin11)  
