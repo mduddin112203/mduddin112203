@@ -53,6 +53,17 @@ GitHub: [github.com/mduddin112203](https://github.com/mduddin112203)
 
 ## Projects
 
+### **Recess** — *Stevens QuackHacks “Mindfulness & Wellbeing Track” Winner*  
+
+Mobile app for smart break scheduling and real-time campus location sharing  
+
+Repo: [github.com/mduddin112203/Recess](https://github.com/mduddin112203/Recess)  
+
+Live: [devpost.com/software/recess-bi6pj4](https://devpost.com/software/recess-bi6pj4)
+
+`React Native | Expo | Supabase | PostgreSQL | Apple Maps | Grok API`
+
+---
 ### **Strands**  
 **Full-stack salon management platform** for customers, owners, stylists, and admins  
 Frontend lead: dashboards, auth, CI/CD, testing, AWS deployment  
